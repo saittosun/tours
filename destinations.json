@@ -1,0 +1,51 @@
+{
+  "destinations": [
+    {
+      "id": 2,
+      "cesme": {
+        "types": {
+          "sports": [
+            "futbol",
+            "voleybol",
+            "basketbol"
+          ],
+          "events": [
+            "music",
+            "theatre",
+            "cinema"
+          ],
+          "multiday": {
+            "eiland": [
+              "sakiz",
+              "kusadasi"
+            ],
+            "nearSea": [
+              "didim",
+              "fethiye"
+            ]
+          }
+        },
+        "durations": {
+          "fiveDays": [
+            "resorthotel",
+            "otel"
+          ],
+          "threeDays": [
+            "butikotel",
+            "pansiyon"
+          ]
+        },
+        "price": {
+          "0-99": [
+            "parkotel",
+            "yamanotel"
+          ],
+          "100-199": [
+            "xhotel",
+            "yhotel"
+          ]
+        }
+      }
+    }
+  ]
+}
